@@ -1,5 +1,5 @@
 # LCT Mapping
-This is a simple example of how to load spatial data and LCT connection data from NGED's open data portal, combine them and plot the data in choropleth maps to visualise the distribution of LCT connections.
+This is a simple example of how to load and combine spatial data and LCT connection data from NGED's open data portal and plot the data in choropleth maps to visualise the distribution of LCT connections.
 
 ## Running the code
 The python jupyter notebook is contained in the `dev` directory ([here](https://github.com/isaacflower/LCTMapping/blob/main/dev/LCT_mapping.ipynb)).
