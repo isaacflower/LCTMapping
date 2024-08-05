@@ -16,5 +16,6 @@ Python Packages:
 - numpy (Array operations)
 - pandas (Data analysis)
 - matplotlib (Basic visualistion)
+- matplotlib-scalebar (Scalebars for choropleth plots)
 - geopandas (Spatial data analysis)
 - osmnx (Importing OpenStreetMap data)
